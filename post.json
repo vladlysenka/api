@@ -16,5 +16,47 @@
     "title": "Заголовок поста 3",
     "imageURL": "https://example.com/image3.jpg",
     "description": "Это описание третьего поста."
+  },
+  {
+    "id": 4,
+    "title": "Заголовок поста 4",
+    "imageURL": "https://example.com/image4.jpg",
+    "description": "Это описание четвертого поста."
+  },
+  {
+    "id": 5,
+    "title": "Заголовок поста 5",
+    "imageURL": "https://example.com/image5.jpg",
+    "description": "Это описание пятого поста."
+  },
+  {
+    "id": 6,
+    "title": "Заголовок поста 6",
+    "imageURL": "https://example.com/image6.jpg",
+    "description": "Это описание шестого поста."
+  },
+  {
+    "id": 7,
+    "title": "Заголовок поста 7",
+    "imageURL": "https://example.com/image7.jpg",
+    "description": "Это описание седьмого поста."
+  },
+  {
+    "id": 8,
+    "title": "Заголовок поста 8",
+    "imageURL": "https://example.com/image8.jpg",
+    "description": "Это описание восьмого поста."
+  },
+  {
+    "id": 9,
+    "title": "Заголовок поста 9",
+    "imageURL": "https://example.com/image9.jpg",
+    "description": "Это описание девятого поста."
+  },
+  {
+    "id": 10,
+    "title": "Заголовок поста 10",
+    "imageURL": "https://example.com/image10.jpg",
+    "description": "Это описание десятого поста."
   }
 ]
