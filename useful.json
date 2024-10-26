@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "Lunelife",
-    "description": "Описание канала Драйв.",
+    "description": "Доказательная нутрициология, полезные статьи и вкусные рецепты",
     "link": "https://t.me/lunelife"
   },
   {
     "id": 2,
-    "title": "Кайф",
-    "description": "Описание канала Кайф.",
-    "link": "https://t.me/kaif_channel"
+    "title": "Катерина Ленгольд",
+    "description": "Метод нейтроинтеграции, как использовать потенциал своего мозга, чтобы жить успешной и наполненной жизнью",
+    "link": "https://t.me/Katerinalengold"
   },
   {
     "id": 3,
-    "title": "Фундамент",
-    "description": "Описание канала Фундамент.",
-    "link": "https://t.me/fundament_channel"
+    "title": "Доктор Рыбакова",
+    "description": "Здоровое питание, медицина образа жизни",
+    "link": "https://t.me/dr_ribakova"
   }
 ]
